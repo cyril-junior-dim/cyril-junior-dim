@@ -3,6 +3,10 @@
 <!--
 **cyril-junior-dim/cyril-junior-dim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## 🌱 I’m currently learning SpringBoot with Java and Kotlin and have used these to build a personal app. I have attempted building this app in Android Studio.
+## 😄 I enjoy building web apps in ASP.NET core or React
+## 🔭 I’m currently working on my personal website which I'm building in React JS
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
