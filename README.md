@@ -4,7 +4,7 @@
 #### 🌱 I’m am proficient in Java and Kotlin with SpringBoot and have used these to build a personal app. I built my peersonal website with React JS supported by the NextJs Framework and deployed via Vercel
 #### 😄 I enjoy building web apps in React JS
 #### 💬 I'm looking to dive into backend development, preferably using OOP technologies
-#### ⚡ Fun fact: I've hit 100% synchronization on 3 different Assassin's Creed games... yes, it'ss OCD, and I think it's sexy
+#### ⚡ Fun fact: I've hit 100% synchronization on 3 different Assassin's Creed games... yes, it's OCD, and I think it's sexy
 
 
 <!--
