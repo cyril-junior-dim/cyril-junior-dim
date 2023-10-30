@@ -9,7 +9,7 @@
 
 <h1>Hi, I'm Cyril! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/cyril-junior-dim/">Software Engineer</a>, <a href="https://www.cyriljuniordim.com">Communication Expert</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨🏾‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (With Udemy Certfication)</b>
   - [Java 17 Programming Masterclass](**Insert Link**)
