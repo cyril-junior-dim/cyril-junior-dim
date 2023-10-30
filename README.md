@@ -21,7 +21,7 @@
 - <b>Javascript (React Web Applications)</b>
   - [Cyril Junior Dim Professional Speaker Portfolio (Next.js)](https://github.com/cyril-junior-dim/nextjs-speaker-portfolio)
 - <b>Android Studio</b>
-  - [TableTopics (Datastructures and Algorithms Demo)](https://github.com/cyril-junior-dim/TableTopics)
+  - [TableTopics (Data Structures and Algorithms Demo)](https://github.com/cyril-junior-dim/TableTopics)
 
 <h2>📺 Popular YouTube Videos</h2>
 
