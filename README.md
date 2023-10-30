@@ -26,7 +26,7 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to write speeches that connect](https://www.youtube.com/watch?v=6BV6PXEckqg&t=5s)
-- [Ndini](https://www.youtube.com/watch?v=lvYu29BpenY&t=1s)
+- [Ndini (2022 World Championship of Public Speaking)](https://www.youtube.com/watch?v=lvYu29BpenY&t=1s)
 
 <h2> 🤳 Connect with me:</h2>
 
