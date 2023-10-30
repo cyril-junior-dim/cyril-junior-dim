@@ -7,7 +7,7 @@
 #### ⚡ Fun fact: I've hit 100% synchronization on 3 different Assassin's Creed games... yes, it's OCD, and I think it's sexy
 -->
 
-<h1>Hi, I'm Cyril! <br/><a href="https://github.com/cyril-junior-dim/cyril-junior-dim/">Programmer</a>, <a href="https://www.linkedin.com/in/cyril-junior-dim/">Software Engineer</a>, <a href="https://www.cyriljuniordim.com">Communication Expert</a></h1>
+<h1>Hi, I'm Cyril! <br/><a href="https://www.linkedin.com/in/cyril-junior-dim/">Software Engineer</a>, <a href="https://www.cyriljuniordim.com">Communication Expert</a></h1>
 
 <h2>👨🏾‍💻 Software Development Projects:</h2>
 
