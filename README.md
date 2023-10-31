@@ -12,9 +12,9 @@
 <h2>👨🏾‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (With Udemy Certfication)</b>
-  - [Java 17 Programming Masterclass](**Insert Link**)
+  - [Java 17 Programming Masterclass](https://github.com/cyril-junior-dim/java-practice)
 - <b>Advanced React Practice (With Udemy Certification)</b>
-  - [React, Redux Masterclass 2023](**Insert Link**)
+  - [React, Redux Masterclass 2023](https://github.com/cyril-junior-dim/react-practice)
 - <b>Full Stack Mobile App(Android Studio, Java, Spring)</b>
   - [Split-The-Bill Mobile](https://github.com/cyril-junior-dim/split-the-bill-frontend)
   - [Split-The-Bill Server](https://github.com/cyril-junior-dim/split-the-bill-server)
