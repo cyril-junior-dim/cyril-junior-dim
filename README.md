@@ -23,6 +23,9 @@
 - <b>Android Studio</b>
   - [TableTopics (Data Structures and Algorithms Demo)](https://github.com/cyril-junior-dim/TableTopics)
 
+<h2>Certifications</h2>
+- Coming 🔜
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to write speeches that connect](https://www.youtube.com/watch?v=6BV6PXEckqg&t=5s)
