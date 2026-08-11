@@ -1,59 +1,38 @@
-<!-- ### Hi there 👋
+<h1>Hi, I'm Cyril Junior Dim</h1>
 
-#### 🔭 I’m currently working on my personal website which I'm building in React JS
-#### 🌱 I’m am proficient in Java and Kotlin with SpringBoot and have used these to build a personal app. I built my peersonal website with React JS supported by the NextJs Framework and deployed via Vercel
-#### 😄 I enjoy building web apps in React JS
-#### 💬 I'm looking to dive into backend development, preferably using OOP technologies
-#### ⚡ Fun fact: I've hit 100% synchronization on 3 different Assassin's Creed games... yes, it's OCD, and I think it's sexy
--->
+<p>
+  <a href="https://www.cyriljuniordim.com">2022 World Champion of Public Speaking</a>
+  · Communication Coach
+  · Keynote Speaker
+  · Software Engineer
+</p>
 
-<h1>Hi, I'm Cyril! <br/><a href="https://www.linkedin.com/in/cyril-junior-dim/">Software Engineer</a>, <a href="https://www.cyriljuniordim.com">Communication Expert</a></h1>
+I help leaders speak so people listen, remember, and act. Alongside my speaking and coaching work, I build digital products and the technology behind my own brands.
 
-<h2>👨🏾‍💻 Software Development Projects:</h2>
+## Current work
 
-- <b>Data Structures and Algorithms Practice (With Udemy Certfication)</b>
-  - [Java 17 Programming Masterclass](https://github.com/cyril-junior-dim/java-practice)
-- <b>Advanced React Practice (With Udemy Certification)</b>
-  - [React, Redux Masterclass 2023](https://github.com/cyril-junior-dim/react-practice)
-- <b>Full Stack Mobile App(Android Studio, Java, Spring)</b>
-  - [Split-The-Bill Mobile](https://github.com/cyril-junior-dim/split-the-bill-frontend)
-  - [Split-The-Bill Server](https://github.com/cyril-junior-dim/split-the-bill-server)
-- <b>Javascript (React Web Applications)</b>
-  - [Cyril Junior Dim Professional Speaker Portfolio (Next.js)](https://github.com/cyril-junior-dim/nextjs-speaker-portfolio)
-- <b>Android Studio</b>
-  - [TableTopics (Data Structures and Algorithms Demo)](https://github.com/cyril-junior-dim/TableTopics)
+- **[Cyril Junior Dim](https://www.cyriljuniordim.com)** — coaching, keynotes, workshops, media, and speaking resources
+- **The Resonance Method** — an academy for speaking with resonance, built around the S.P.E.A.R. framework
+- **Sunrise Lectures** — self-paced training for contests, workplace presentations, impromptu speaking, and professional speaker positioning
 
-<h2>Certifications</h2>
-- Coming 🔜
+## Selected software projects
 
-<h2>📺 Popular YouTube Videos</h2>
+- **[Split the Bill — frontend](https://github.com/cyril-junior-dim/split-the-bill-frontend)** — Android client for a shared-expense application
+- **[Split the Bill — server](https://github.com/cyril-junior-dim/split-the-bill-server)** — Spring backend for the shared-expense application
+- **[Table Topics](https://github.com/cyril-junior-dim/TableTopics)** — Android application for improvised-speaking practice
+- **[React practice](https://github.com/cyril-junior-dim/react-practice)** — advanced React and Redux exercises
+- **[Java practice](https://github.com/cyril-junior-dim/java-practice)** — Java 17 and data-structures practice
+- **[Legacy speaker portfolio](https://github.com/cyril-junior-dim/nextjs-speaker-portfolio)** — the previous Next.js version of my professional website
 
+## Talks and videos
+
+- [Ndini — 2022 World Championship of Public Speaking](https://www.youtube.com/watch?v=lvYu29BpenY&t=1s)
 - [How to write speeches that connect](https://www.youtube.com/watch?v=6BV6PXEckqg&t=5s)
-- [Ndini (2022 World Championship of Public Speaking)](https://www.youtube.com/watch?v=lvYu29BpenY&t=1s)
 
-<h2> 🤳 Connect with me:</h2>
+## Connect
 
-  [<img align="left" alt="CyrilJuniorDim | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-  [<img align="left" alt="CyrilJuniorDim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-  [<img align="left" alt="CyrilJuniorDim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  [<img align="left" alt="CyrilJuniorDim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[facebook]: https://www.facebook.com/cyril.j.dim
-[youtube]: https://www.youtube.com/channel/UC_GNE1TkbDB2IJILJtSe55A
-[instagram]: https://www.instagram.com/cyriljuniordim/
-[linkedin]: https://www.linkedin.com/in/cyril-junior-dim/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website](https://www.cyriljuniordim.com) ·
+[LinkedIn](https://www.linkedin.com/in/cyril-junior-dim/) ·
+[YouTube](https://www.youtube.com/channel/UC_GNE1TkbDB2IJILJtSe55A) ·
+[Instagram](https://www.instagram.com/cyriljuniordim/) ·
+[Facebook](https://www.facebook.com/cyril.j.dim)
